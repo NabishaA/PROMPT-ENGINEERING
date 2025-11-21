@@ -1,4 +1,6 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# NAME : NABISHA A
+# REG NO : 212223060177
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
